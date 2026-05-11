@@ -1,7 +1,7 @@
 # VIGENERE-CIPHER
 ## EX. NO: 4
-## NAME : KARTHICK V
-## REG NO :212223040086
+## NAME : g.Nitin karthikeyan
+## REG NO :212224040227
  
 
 ## IMPLEMETATION OF VIGENERE CIPHER
@@ -81,8 +81,7 @@ int main() {
 
 ~~~
 ## OUTPUT
-<img width="1864" height="925" alt="image" src="https://github.com/user-attachments/assets/e05b0324-c103-4bd4-8111-31c11ad505d5" />
-
+<img width="839" height="397" alt="image" src="https://github.com/user-attachments/assets/ac7205b7-6404-4874-a02b-5bcbf87b8316" />
 
 ## RESULT
 The program is executed successfully.
